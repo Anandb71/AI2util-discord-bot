@@ -4,7 +4,7 @@
 This is a **Self-Coding AI Agent** for Discord. It allows the owner to control the bot and the server using natural language commands. The bot dynamically generates Python code using Google's Gemini AI and executes it in real-time.
 
 ### **Prefix & Commands**
-*   **Prefix:** `>` (Changed from `;`)
+*   **Prefix:** `>` 
 *   **Slash Commands:** Supported (via `app_commands`)
 
 ### **Commands List**
